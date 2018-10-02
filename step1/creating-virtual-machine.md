@@ -17,3 +17,8 @@ As mentioned earlier, there are a plenty of resources we're going to build in th
     To a simple VM's configuration (which is our case here), that all we need. However, is import to point out that you can configure different aspects of that VM like VM's size, dinamic or static IP, storage, etc. Let's click out on "Review and create" to go to the next step.
 
 4) As next step, just review the information you are about to send to Azure. If everything is correct, click on "Create". If something is not the way it should be, just update the information and then, click in "Review and create" once again.
+
+    <img src="https://raw.githubusercontent.com/AzureForEducation/demo-wordpressvm/master/images/wordpress-vm-create-review.PNG" width="600">
+
+5) The VM creation can take from 2 to 5 minutes. Wait a little bit and then, go to the resource group where you've deployed the VM. You should be able to see it there, as showed by the image below.
+
