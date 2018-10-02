@@ -1,4 +1,4 @@
-# Creating a new Virtual Machine (VM)
+# Step 1 - Creating a new Virtual Machine (VM)
 
 As mentioned earlier, there are plenty of resources we're going to build in this demo, and the whole thing is going to live in a single Linux-based (Ubuntu) VM. This way, we're going to start this process by creating our virtual machine host through the Azure Portal.
 
