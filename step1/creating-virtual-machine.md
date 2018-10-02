@@ -40,4 +40,6 @@ ssh fabricio@{your-VM-public-ip}
 
 I've added that host on my local list of accepted addresses and informed the password. Then, I 've received the access to my VM on Azure, as you can see below.
 
-<img src="">
+<img src="https://raw.githubusercontent.com/AzureForEducation/demo-wordpressvm/master/images/wordpress-vm-linux-access.PNG" width="400">
+
+That's it. We now have finished the first step. Let's go to the next one and install and configure both MySQL and Apache services.
