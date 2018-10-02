@@ -22,3 +22,22 @@ As mentioned earlier, there are a plenty of resources we're going to build in th
 
 5) The VM creation can take from 2 to 5 minutes. Wait a little bit and then, go to the resource group where you've deployed the VM. You should be able to see it there, as showed by the image below.
 
+    <img src="https://raw.githubusercontent.com/AzureForEducation/demo-wordpressvm/master/images/wordpress-vm-running.PNG" width="600">
+
+## Accessing the Virtual Machine
+
+Now, to complete this first great step, one thing left: test out the VM accessibility through SSH (remember: we're on Linux World). You can do that either by using Windows Subsystem for Linux or Putty.
+
+    > To see how to connect to a Linux-based VM using Putty, please, follow up [this link](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/ssh-from-windows#connect-to-your-vm).
+
+    > To enable Linux subsystem in your Windows machine, just follow up the instructions enclosed in [this document](https://docs.microsoft.com/en-us/windows/wsl/install-win10).
+
+Linux subsystem automatically brings SSH utility with it so I'm going to use it. To get there, I typed the following replacing "your-VM-public-ip" peace by the VM's public IP, available on the VM's blade on the Azure Portal.
+
+```shell
+ssh fabricio@{your-VM-public-ip}
+```
+
+I've added that host on my local list of accepted addresses and informed the password. Then, I 've received the access to my VM on Azure, as you can see below.
+
+<img src="">
