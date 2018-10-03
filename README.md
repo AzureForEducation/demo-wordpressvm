@@ -16,4 +16,3 @@ To successfuly run through this demo you will need to have some utilities availa
 2) [Installing and configuring Apache and MySQL](https://github.com/AzureForEducation/demo-wordpressvm/blob/master/step2/installing-apache-mysql.md)
 3) [Installing and configuring Wordpress](https://github.com/AzureForEducation/demo-wordpressvm/blob/master/step3/installing-wordpress.md)
 4) [Testing the website](https://github.com/AzureForEducation/demo-wordpressvm/blob/master/step4/testing-wordpress.md)
-5) [Removing resources](https://github.com/AzureForEducation/demo-wordpressvm/blob/master/step5/removing-resources.md)
