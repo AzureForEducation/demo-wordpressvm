@@ -52,4 +52,18 @@ To get that, within your VM please go after the following steps.
 
     By doing this, you'll probably be seeing a screen like that one presented by the image below. That is how a wp-config file looks like. The items we're going update on that file to get our Wordpress up and running, are underlined in red.
 
+    <img src="https://raw.githubusercontent.com/AzureForEducation/demo-wordpressvm/master/images/wordpress-vm-nano.PNG" width="600" />
+
+    Replace the content on that three pointed fields properly as follows:
+
+    <code>database_name_here</code> by <code>wordpress_db</code>
+
+    <code>username_here</code> by <code>root</code>
+
+    <code>password_here</code> by <code>{your password}</code>
+
+    Press <code>ctrl + X</code> to close editions on that document and then, press <code>Y</code> to confirm that the file is being saved.
+    
+    That's all. On the end your "wp-config-sample.php" file should be pretty similar to that one presented by the image below.
+
     
