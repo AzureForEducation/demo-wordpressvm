@@ -8,4 +8,6 @@ By doing this you should be able to see a screen pretty similar to that one pres
 
 <img src="https://raw.githubusercontent.com/AzureForEducation/demo-wordpressvm/master/images/wordpress-vm-final-configuration.PNG" />
 
-Fullfil that peace of information lefting and then, click in "Install Wordpress". Done. Wordpres is fully installed, configured and ready to be used.
+Fullfil that peace of information lefting and then, click in "Install Wordpress". Done. Wordpres is fully installed, configured and ready to be used. Below you can see our Wordpress up and running.
+
+<img src="" />
