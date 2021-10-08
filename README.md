@@ -1,6 +1,6 @@
 # Demo - Wordpress running in a single VM
 
-This repository groups the demo files and documentation capable to walk you through the process put a single Wordpress instance to run on top of a Linux-based virtual machine on Azure. To accomplish that, we will use both the Azure Portal and Azure CLI 2.0. We'll do this way to show you how this two different approaches can collaborate together.
+This repository groups the demo files and documentation capable to walk you through the process put a single Wordpress instance to run on top of a Linux-based virtual machine on Azure. To accomplish that, we will use both the Azure Portal and Azure CLI 2.0. We'll do this way to show you how these two different approaches can collaborate together.
 
 ## Pre-requisites
 
